@@ -62,7 +62,7 @@ jobs:
     #    uses a compiled language
 
     - run: |
-       javac Main.java
+       javac java/Main.java
        # make bootstrap
        # make release
 
